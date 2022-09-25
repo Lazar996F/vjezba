@@ -1,0 +1,48 @@
+.header {
+  background-color: red;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Univerzal css class for all titles */
+.box-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.second-row {
+  height: 500px;
+  background-color: gray;
+}
+
+.contetWithFooter {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav {
+  background-color: yellow;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  background-color: rgb(89, 187, 59);
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  background-color: rgba(113, 218, 236, 0.986);
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
